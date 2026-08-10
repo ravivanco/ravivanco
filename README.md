@@ -1,212 +1,213 @@
 <!-- ========================= -->
-<!-- BANNER -->
+<!-- HEADER / INTRO SECTION -->
+<!-- Purpose: Main presentation of your GitHub profile -->
+<!-- Edit: Change the banner URL if you want to use your own image -->
 <!-- ========================= -->
+
+<h1 align="center">Hi there, I'm Richard Vivanco 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E5F,100:2E7D8C&height=180&section=header&text=Richard%20Vivanco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%C2%B7%20React%20Native%20%C2%B7%20AI-Powered%20Apps&descAlignY=58&descSize=18" />
+  <b>Full Stack Developer | Software Engineering Graduate from ESPE</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=2E7D8C&center=true&vCenter=true&width=650&lines=Building+mobile+apps+with+AI+integration;Flutter+%7C+React+Native+%7C+Android+Studio;Full+Stack+when+the+project+needs+it;Currently+shipping+DK-Fitt+%F0%9F%A5%97" alt="Typing SVG" />
+  I build web and mobile applications using modern technologies for frontend, backend, databases, and APIs.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/richard-vivanco-472300224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rvivanco199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Quito%2C%20Ecuador-1F4E5F?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ravivanco&style=for-the-badge&color=2E7D8C&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Spring+Boot+%7C+Node.js;PostgreSQL+%7C+JavaScript+%7C+Python+%7C+C%2B%2B;Building+web+and+mobile+solutions" alt="Typing SVG" />
 </p>
 
-<br>
+---
 
 <!-- ========================= -->
-<!-- ABOUT ME -->
+<!-- ABOUT ME SECTION -->
+<!-- Purpose: Short professional summary -->
+<!-- Edit: Update your current role, goals, and personal summary -->
 <!-- ========================= -->
-## 👋 Sobre mí
 
-Soy **Ingeniero de Software** egresado de la Universidad de las Fuerzas Armadas ESPE, enfocado en **desarrollo móvil** con Flutter y React Native. Me interesa especialmente el punto donde el mobile se cruza con la **inteligencia artificial** — construir apps que no solo se ven bien, sino que integran modelos de IA para resolver un problema real (reconocimiento de imágenes, recomendación, automatización).
+## 🚀 About Me
 
-También tengo base sólida en desarrollo full stack (Node.js, Laravel, Spring Boot, PostgreSQL), así que puedo moverme por todo el stack cuando el proyecto lo pide.
+I'm **Richard Vivanco**, a **Full Stack Developer** passionate about building modern digital solutions for both **web** and **mobile** platforms.
 
-- 📱 Enfoque principal: **apps móviles con integración de IA**
-- 🥗 Actualmente construyendo **DK-Fitt** — control nutricional con reconocimiento de alimentos por foto
-- 🎓 Ingeniería de Software — ESPE
-- 🧠 Me interesa cómo la IA generativa cambia la forma de construir producto, no solo de programar
-- 🤝 Abierto a colaborar en proyectos de mobile + IA
+I studied **Software Engineering at Universidad de las Fuerzas Armadas ESPE**, where I developed strong foundations in software development, system design, databases, and application architecture.
 
-<br>
+I enjoy working across the full development lifecycle: from designing interfaces and building APIs to connecting databases and deploying complete solutions. My main focus is creating practical, scalable, and well-structured applications.
 
-<!-- ========================= -->
-<!-- ARCHITECTURE DIAGRAM (Mermaid) -->
-<!-- ========================= -->
-## 🧩 Cómo pienso un sistema: DK-Fitt
+- 💻 Full Stack Developer
+- 🎓 Software Engineering graduate from **ESPE**
+- 🌱 Always learning and improving my skills
+- 📱 Interested in web, mobile, backend, and software architecture
+- 🤝 Open to collaboration on meaningful software projects
 
-En vez de solo listar tecnologías, así es como está estructurado mi proyecto de titulación — una app de control nutricional que reconoce alimentos por foto y recomienda menús con IA:
-
-```mermaid
-flowchart LR
-    A[📷 Foto del alimento] --> B[Modelo de IA<br/>Reconocimiento de imagen]
-    B --> C[Identificación del<br/>alimento + valores nutricionales]
-    C --> D[Motor de recomendación<br/>de menús con IA]
-    D --> E[📱 App móvil<br/>Flutter]
-    C --> F[Panel de apoyo<br/>para nutricionista]
-    E --> G[(Base de datos<br/>PostgreSQL)]
-    F --> G
-```
-
-<br>
+---
 
 <!-- ========================= -->
-<!-- TECH STACK -->
+<!-- TECH STACK SECTION -->
+<!-- Purpose: Show your main technologies and tools -->
+<!-- Edit: Add or remove technologies based on your real experience -->
 <!-- ========================= -->
+
 ## 🛠 Tech Stack
 
-**Mobile** — mi foco principal
-
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-**Backend & APIs**
-
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,php,python" />
 </p>
 
-**Frontend / Web**
-
+### Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
 </p>
 
-**Bases de datos**
-
+### Databases
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**IA · Automatización · Herramientas**
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<!-- ========================= -->
+<!-- OTHER TECHNOLOGIES SECTION -->
+<!-- Purpose: Show additional technologies with icons instead of plain text -->
+<!-- Edit: Add or remove icons depending on the tools and languages you really use -->
+<!-- ========================= -->
+
+## ⚙️ Other Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,spring,react,nodejs,postgres,git,github,vscode,androidstudio,flutter,python" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23%20%2F%20Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<br>
+---
 
 <!-- ========================= -->
-<!-- FEATURED PROJECTS -->
+<!-- WHAT I DO SECTION -->
+<!-- Purpose: Explain your professional profile clearly -->
+<!-- Edit: Adjust this section depending on your specialization -->
 <!-- ========================= -->
-## 📌 Proyectos Destacados
 
-### 🥗 DK-Fitt — Proyecto de Titulación
-App móvil de control nutricional con reconocimiento de alimentos por fotografía mediante IA, más un motor de recomendación de menús personalizados que apoya el trabajo de nutricionistas.
+## 💼 What I Do
 
-`Flutter` `IA / Visión por computador` `Recomendación con IA`
+I work on:
 
-[🔗 Ver repositorio](https://github.com/ravivanco/dk-fitt-mobile)
+- Responsive frontend interfaces with **HTML, CSS, JavaScript, React, and Tailwind CSS**
+- REST API development with **Node.js, PHP, Python, and Spring Boot**
+- Database design and integration with **PostgreSQL**
+- Mobile application development with **React Native** and **Flutter**
+- API testing and documentation using **Postman**
+- Source control and collaboration with **Git and GitHub**
 
 ---
 
-### 🚴 PROWESS BIKE — Proyecto de Vinculación
-Módulo móvil para gestión de rutas y bicicletas, desarrollado como parte de un proyecto de vinculación universitaria enfocado en movilidad urbana.
+<!-- ========================= -->
+<!-- FEATURED PROJECTS SECTION -->
+<!-- Purpose: Showcase your best GitHub projects -->
+<!-- Edit: Replace placeholder links, images, and descriptions with your actual repositories -->
+<!-- IMPORTANT: If project images fail, use direct raw GitHub image URLs -->
+<!-- ========================= -->
 
-`Flutter` `Android Studio`
+## 📌 Featured Projects
 
-[🔒 Repositorio privado — próximamente](https://github.com/ravivanco)
+### 1. Portal NFT
+**Tech:** JavaScript, React, Sass, Solidity  
+Web3 application for creating and managing NFT collections. Includes wallet connection and interaction with smart contracts built in Solidity.
+
+- 🔗 Repository: `https://github.com/your-username/your-nft-project`
+- 🌐 Live Demo: `https://your-demo-link.com`
 
 ---
 
-### 🍽️ NutriSportiff
-App para cálculo del Índice de Masa Corporal (IMC) y generación de recomendaciones alimenticias personalizadas.
+### 2. Portfolio Website
+**Tech:** HTML, CSS, JavaScript  
+Personal portfolio website that showcases my projects, skills, and contact information in a clean and professional way.
 
-`Mobile` `Lógica de recomendación nutricional`
-
-[🔗 Ver repositorio](https://github.com/ravivanco/NutriSportFitt)
+- 🔗 Repository: `https://github.com/your-username/your-portfolio`
+- 🌐 Live Demo: `https://your-portfolio-link.com`
 
 ---
 
-### 🛵 Delivery App — Kaizen Software
-App de delivery con flujos de pedido, seguimiento y gestión de usuarios, desarrollada durante mis prácticas preprofesionales.
+### 3. API Tester / Web Mailer
+**Tech:** HTML, CSS, JavaScript, Prism.js  
+Web interface designed to send GET and POST requests for testing and documenting APIs in a simple way.
 
-`React Native` `Expo` `Android Studio`
+- 🔗 Repository: `https://github.com/your-username/your-api-project`
+- 🌐 Live Demo: `https://your-demo-link.com`
 
-[🔒 Repositorio privado — próximamente](https://github.com/ravivanco)
-
-> 💡 *PROWESS BIKE y el delivery app de Kaizen aún no están públicos. En cuanto los subas (o los hagas públicos si son privados), reemplaza esos dos links por la URL directa del repo.*
-
-<br>
+---
 
 <!-- ========================= -->
-<!-- OTHER PROJECTS -->
+<!-- GITHUB STATS SECTION -->
+<!-- Purpose: Add dynamic GitHub statistics -->
+<!-- Edit: Replace 'your-username' with your real GitHub username -->
 <!-- ========================= -->
-## 🗂️ Otros Proyectos
 
-| Proyecto | Stack | Repo |
-|---|---|---|
-| **CakeShoop** — tienda online | Laravel / Blade | [Ver](https://github.com/ravivanco/CakeShoop) |
-| **Juego2D** — videojuego 2D | C# / Unity | [Ver](https://github.com/ravivanco/Juego2D) |
-| **ChatBoot** — chatbot web | HTML/JS | [Ver](https://github.com/ravivanco/ChatBoot) |
-| **Software-Seguro** — seguridad de software | PHP | [Ver](https://github.com/ravivanco/Software-Seguro) |
-
-<br>
-
-<!-- ========================= -->
-<!-- GITHUB STATS -->
-<!-- ========================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravivanco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravivanco&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravivanco&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravivanco&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<br>
+---
 
 <!-- ========================= -->
-<!-- CURRENTLY -->
+<!-- CURRENT FOCUS SECTION -->
+<!-- Purpose: Show what you are learning or building now -->
+<!-- Edit: Update this regularly -->
 <!-- ========================= -->
-## 🌱 En qué estoy ahora
 
-- 🔭 Puliendo **DK-Fitt** para su presentación final
-- 📱 Profundizando en arquitectura móvil escalable con Flutter
-- 🤖 Explorando cómo integrar modelos de IA de forma más eficiente en apps móviles
-- 💼 Abierto a oportunidades como **Desarrollador Móvil**
+## 🌱 Currently Learning / Working On
 
-<br>
+- Improving my skills in **full stack development**
+- Building **web and mobile applications**
+- Working with **React Native**, **Spring Boot**, and **PostgreSQL**
+- Strengthening my knowledge in **software architecture** and modern development practices
+
+---
 
 <!-- ========================= -->
-<!-- CONTACT -->
+<!-- CONTACT SECTION -->
+<!-- Purpose: Share your professional contact links -->
+<!-- Edit: Replace links with your real profiles -->
 <!-- ========================= -->
-## 📫 Contacto
+
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/richard-vivanco-472300224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rvivanco199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ravivanco" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/your-username" target="_blank">GitHub</a> |
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D8C,100:1F4E5F&height=100&section=footer" />
-</p>
+---
+
+<!-- ========================= -->
+<!-- PROFILE VIEWS OR QUOTE -->
+<!-- Purpose: Optional ending section -->
+<!-- Edit: Keep or remove depending on your style -->
+<!-- ========================= -->
+
+## ✨ Final Note
+
+I’m passionate about technology, continuous learning, and building software that creates real value.  
+Thanks for visiting my profile.
